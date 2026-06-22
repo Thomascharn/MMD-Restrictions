@@ -73,3 +73,48 @@
         <True/>
         <key>allowListedAppBundleIDs</key>
         <False/>
+        #Managed Open-In
+        <key>allowOpenFromManagedToUnmanaged</key>
+        <False/>
+        <key>allowOpenFromUnmanagedToManaged</key>
+        <True/>
+        <key>allowManagedAppsCloudSync</key>
+        <False/>
+        <key>forceAirDropUnmanaged</key>
+        <True/>
+        #iCloud
+        <key>allowCloudBackup</key>
+        <True/>
+        <key>allowCloudDocumentSync</key>
+        <True/>
+        <key>allowCloudKeychainSync</key>
+        <False/>
+        <key>allowCloudPhotoLibrary</key>
+        <True/>
+        <key>allowPhotoStream</key>
+        <True/>
+        <key>allowSharedStream</key>
+        <True/>
+        #Safari
+        <key>allowSafari</key>
+        <True/>
+        <key>safariAcceptCookies</key>
+        <True/>
+        <key>safariAllowAutoFill</key>
+        <True/>
+        <key>safariAllowJavaScript</key>
+        <True/>
+        <key>safariAllowPopups</key>
+        <False/>
+        <key>safariForceFraudWarning</key>
+        <True/>
+        #AirPrint
+        <key>allowAirPrint</key>
+        <True/>
+        <key>allowAirPrintCredentialsStorage</key>
+        <True/>
+        <key>allowAirPrintiBeaconDiscovery</key>
+        <True/>
+        <key>forceAirPrintTrustedTLSRequirement</key>
+        <True/>
+        #Notifications
