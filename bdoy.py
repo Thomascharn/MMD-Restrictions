@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">	
+<plist version="1.0">	
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+	    <key>PayloadDescription</key>
+	    <string>Configures restrictions</string>
+	    <key>PayloadDisplayName</key>
+	    <string>Restrictions</string>
+	    <key>PayloadIdentifier</key>
+	    <string>com.apple.applicationaccess.3CF474DA-AFEC-4378-9EEB-3F7F0717B596</string>
+	    <key>PayloadType</key>
+	    <string>com.apple.applicationaccess</string>
+	    <key>PayloadUUID</key>
+	    <string>3CF474DA-AFEC-4378-9EEB-3F7F0717B596</string>
+	    <key>PayloadVersion</key>
+	    <integer>1</integer>
+        #General
+        <key>allowCamera</key>
+        <True/> 
+        <key>allowDeviceSleep</key>
+        <True/>
+        <key>allowVideoConferencing</key>
+        <True/> 
+        <key>allowScreenShot</key>
+        <True/>
+        <key>allowProximitySetupToNewDevice</key>
+        <False/>
+        <key>allowVoiceDialing</key>
+        <False/>
+        <key>forceClassroomUnpromptedAppAndDeviceLock</key>
+        <False/>
+        <key>forceClassroomUnpromptedScreenObservation</key>
+        <False/>
+        <key>forceClassroomAutomaticallyJoinClasses</key>
+        <False/>
+        <key>forceClassroomRequestPermissionToLeaveClasses</key>
+        <False/>
+        <key>forceAutomaticDateAndTime</key>
+        <False/>
+        #Lock Screen
+        <key>allowLockScreenControlCenter</key>
+        <True/>
+        <key>allowLockScrenNotificationsView</key>
+        <True/>
+        <key>allowLockScreenTodayView</key>
+        <True/>
+        <key>allowPassbookWhileLocked</key>
+        <True/>
+        #USB & Pairing
+        <key>allowHostPairing</key>
+        <True/>
+        <key>allowUSBRestrictedMode</key>
+        <False/>
+        #Apps
+        <key>allowAppClips</key>
+        <True/>
+        <key>allowUIAppInstallation</key>
+        <True/>
+        <key>allowAutomaticAppDownloads</key>
+        <True/>
+        <key>allowChat</key>
+        <True/>
+        <key>allowAppInstallation</key>
+        <True/>
+        <key>allowAppRemoval</key>
+        <True/>
+        <key>allowSystemAppRemoval</key>
+        <True/>
+        <key>allowEnterpriseAppTrust</key>
+        <True/>
+        <key>allowListedAppBundleIDs</key>
+        <False/>
