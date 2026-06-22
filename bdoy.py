@@ -118,3 +118,61 @@
         <key>forceAirPrintTrustedTLSRequirement</key>
         <True/>
         #Notifications
+        <key>allowNotificationsModification</key>
+        <True/>
+        #Files
+        <key>allowFilesNetworkDriveAccess</key>
+        <True/>
+        <key>allowFilesUSBDriveAccess</key>
+        <True/>
+        #Apple Watch
+        <key>allowPairedWatch</key>
+        <True/>
+        <key>forceWatchWristDetection</key>
+        <False/>
+        #Network and connectivity
+        <key>allowVPNCreation</key>
+        <False/>
+        #Security and Privacy
+        <key>allowEnablingRestrictions</key>
+        <True/>
+        <key>allowEraseContentAndSettings</key>
+        <False/>
+        <Key>allowFindMyDevice</key>
+        <True/>
+        <key>allowFindMyFriends</key>
+        <False/>
+        <key>allowUIConfiguationProfileInstallation</key>
+        <False/>
+        <key>allowPasscodeModification</key>
+        <True/>
+        <key>allowPasswordAutofill</key>
+        <True/>
+        <key>allowPasswordSharing</key>
+        <False/>
+        <key>allowApplePersonalizedAdvertising</key>
+        <False/>
+        <key>allowPasswordProximityRequests</key>
+        <False/>
+        <key>allowDiagnosticSubmission</key>
+        <False/>
+        <key>allowFingerprintModification</key>
+        <True/>
+        <key>allowFingerprintForUnlock</key>
+        <True/>
+        <key>allowUnpairedExternalBootToRecovery</key>
+        <False/>
+        <key>allowUntrustedTLSPrompt</key>
+        <False/>
+        <key>forceEncryptedBackup</key>
+        <True/>
+        <key>forceLimitAdTracking</key>
+        <True/>
+        <key>allowAccountModification</key>
+        <True/>
+        <key>forceAuthenticationBeforeAutoFill</key>
+        <True/>
+        <key>forceDelayedSoftwareUpdates</key>
+        <False/>
+        <key>allowAssistantWhileLocked</key>
+        <False/>
