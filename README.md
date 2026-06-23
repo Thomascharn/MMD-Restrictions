@@ -145,7 +145,7 @@
 - Allow Today View on Lock Screen - Some people may use it to quickly see their widgets, including notes and reminders, rather than unlocking their device
 - Allow Control Center on Lock Screen - Some people may want to be able to want to quickly control their device, including turning brightness down
 
-- Allow pairing with Non-configurator Hosts -
+- Allow pairing with Non-configurator Hosts - If restricted, it blocks users from sharing personal media to and from their device
 - USB restricted mode - If large sets of data are needed to be downloaded while the user is not close, so can not keep it unlocked
 
 - Allow Installing Apps - Users should be able to download what they want to on their personal device
