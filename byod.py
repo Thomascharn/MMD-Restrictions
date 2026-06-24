@@ -24,6 +24,8 @@
         <true/>
         <key>allowVideoConferencing</key>
         <true/> 
+		<key>allowActivityContinuation</key>
+		<true/>
         <key>allowScreenShot</key>
         <true/>
         <key>allowProximitySetupToNewDevice</key>
