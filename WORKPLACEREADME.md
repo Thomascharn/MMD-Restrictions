@@ -41,7 +41,7 @@
 | Allow Removing Apps | `allowAppRemoval` | Yes |
 | Allow Removing System Apps | `allowSystemAppRemoval` | Yes |
 | Allow Trusting New Enterprise App Authors | `allowEnterpriseAppTrust` | No |
-| Restrict App Usage | `allowListedAppBundleIDs` | Add permitted apps, example: 'com.apple.example' |
+| Restrict App Usage | `allowListedAppBundleIDs` | No |
 
 ## Managed Open-In
 | Setting | XML Key | Value |
