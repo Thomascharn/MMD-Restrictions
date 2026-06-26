@@ -14,6 +14,4 @@ This project contains Mobile Device Management (MDM) restriction policies for:
 - BYODREADME.md - Justification for BYOD restrictions
 - USERREADME.md - User responsibilities and acceptable use policy
 
-## Purpose
 
-To create secure but practical iOS device policies for use within an organisation.
