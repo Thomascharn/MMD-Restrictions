@@ -65,7 +65,7 @@
 | Setting | XML Key | Value |
 |---|---|---|
 | Allow Safari | `allowSafari` | Yes |
-| Safari: Accept Cookies | `safariAcceptCookies` | From websites I visit |
+| Safari: Accept Cookies | `safariAcceptCookies` | Yes |
 | Safari: Allow AutoFill | `safariAllowAutoFill` | Yes |
 | Safari: Allow JavaScript | `safariAllowJavaScript` | Yes |
 | Safari: Allow Pop‑ups | `safariAllowPopups` | No |
